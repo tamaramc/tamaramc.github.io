@@ -577,7 +577,6 @@ section {
     text-transform: uppercase;
     font-size: 14px;
     font-family: 'Raleway', sans-serif;
-    padding-top: .8em;
     font-weight: 700;
 }
 
@@ -671,7 +670,7 @@ li.fd-trk-vid {
 }
 
 .mkt-5 {
-    height: 920px;
+    height: 980px;
     background-image: url('../images/BPM-Wireframe1.png');
      background-size: cover;
 }
