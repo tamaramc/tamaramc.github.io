@@ -327,6 +327,22 @@ height: 32px;
 background-size:contain;
 }
 
+.drb {
+background-image: url("../images/dribble.svg");
+background-repeat: no-repeat;
+width: 32px;
+height: 32px;
+background-size:contain;
+}
+
+.drb:hover {
+background-image: url("../images/dribble-on.svg");
+background-repeat: no-repeat;
+width: 32px;
+height: 32px;
+background-size:contain;
+}
+
 .mail {
 background-image: url("../images/mail.svg");
 background-repeat: no-repeat;
@@ -674,6 +690,13 @@ li.fd-trk-vid {
     background-image: url('../images/BPM-Wireframe1.png');
      background-size: cover;
 }
+
+.mkt-6 {
+    height: 460px;
+    background-image: url('../images/BPM-Wireframe-Dropdown.png');
+     background-size: cover;
+}
+
 /* About Section */
 
 .about {
