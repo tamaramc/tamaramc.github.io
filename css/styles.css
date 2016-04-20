@@ -533,7 +533,7 @@ section {
 
 .bx:hover > .screen {
     width: 32.26%;
-    height: 62%;
+    height: 40%;
     position: absolute;
     background-color: #fff;
     opacity:0.9;
