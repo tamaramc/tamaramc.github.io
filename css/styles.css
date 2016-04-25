@@ -30,6 +30,10 @@ p {
     margin-bottom: 1em;
 }
 
+.ital {
+    font-style: italic;
+}
+
 h1 {
     font-family: 'Lora', serif;
 }
@@ -708,6 +712,29 @@ li.fd-trk-vid {
      background-size: cover;
 }
 
+/* Human Centered Design Images */
+.ideo1 {
+    height: 540px;
+    background-image: url('../images/insights1.jpg');
+    background-size: cover;
+    background-position: 0px;
+}
+
+.ideo2 {
+    height: 540px;
+    background-image: url('../images/internet1.jpg');
+    background-size: cover;
+    background-position: 0px;
+}
+
+.ideo3 {
+    height: 540px;
+    background-image: url('../images/brainstorming.jpg');
+    background-size: cover;
+    background-position: 0px;
+}
+
+
 /* About Section */
 
 .about {
@@ -865,7 +892,7 @@ footer li {
     margin-right: auto;
     }
     
-    h4 {font-size: 3em;
+    h4 {font-size: 24px;
     margin-top: 20px;}
     
     header {
@@ -978,9 +1005,9 @@ footer li {
    
     .blk1 {
     margin-top: 5%;
-    height: 30vh;
+    height: 50vh;
     background-size: cover;
-    background-position: 0 10%;
+    background-position: 0 25%;
     }
     
     .bx:hover > .hidden {
