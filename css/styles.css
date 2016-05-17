@@ -1066,6 +1066,7 @@ nav { z-index: 0; }
     #hero {
         background-image: url("../images/hero-bw2-mobile.jpg");
         background-size: contain;
+        background-repeat: no-repeat;
         background-position: 30%, 20%;
         
     }
