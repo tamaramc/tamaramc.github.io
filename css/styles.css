@@ -1062,6 +1062,11 @@ header h1 {
 nav { z-index: 0; }
     
 .burger {display: block;}
+    
+    #hero {
+        background-image: url("../images/hero-bw2-sm.jpg");
+        background-position: 30%, 20%;
+    }
 
 
 /*  Nav Drawer Layout  */
