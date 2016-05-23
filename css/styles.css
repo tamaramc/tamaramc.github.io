@@ -712,6 +712,19 @@ li.fd-trk-vid {
      background-size: cover;
 }
 
+.mkt-7 {
+    height: 1080px;
+    background-image: url('../images/Market-color.jpg');
+     background-size: contain;
+    background-repeat: no-repeat;
+}
+.mkt-8 {
+    height: 1080px;
+    background-image: url('../images/Market-color-dropdown.jpg');
+     background-size: contain;
+    background-repeat: no-repeat;
+}
+
 /* Human Centered Design Images */
 .ideo1 {
     height: 540px;
