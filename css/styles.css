@@ -380,7 +380,7 @@ section {
     width: 100%;
     height: 95vh;
     background-color: pink;
-    background-image: url("../images/hero-bw2.jpg");
+    /*background-image: url("../images/hero-bw2.jpg"); */
     background-size: cover;
     background-attachment: fixed;
     color: white;
